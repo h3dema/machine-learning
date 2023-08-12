@@ -6,3 +6,5 @@ seaborn
 ipython
 jupyter
 graphviz
+tqdm
+tensorflow
